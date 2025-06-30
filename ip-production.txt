@@ -1,5 +1,3 @@
-Proposed addresses 08 April 2025
-(Please confirm to the Telin Team after applying these proposed addresses)
 
 112.215.101.0/24
 114.124.227.0/24
